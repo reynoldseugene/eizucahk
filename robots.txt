@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiphiengoo.alekhagarwal.net/sitemap.xml
